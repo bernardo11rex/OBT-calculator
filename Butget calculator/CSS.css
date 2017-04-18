@@ -1,0 +1,91 @@
+body {
+	background-image: url(http://www.powerpointhintergrund.com/uploads/money-ppt-background-23.jpg);
+	height: 800px;
+	width: 100%;
+	margin: 0;
+	background-repeat: no-repeat;
+}
+
+#income {
+	position: relative;
+	height: 15%;
+	float: left;
+	width: 500px;
+	background-color: antiquewhite;
+	border: 5px solid green;
+	border-style: inset;
+	margin: 10px;
+	text-align: center;
+	font-size: 17px;
+	font-family: 'Simonetta', cursive;
+	border-radius: 50px;
+}
+#housing {
+	position: relative;
+	height: 15%;
+	width: 500px;
+	float: right;
+	background-color: antiquewhite;
+	border: 5px solid green;
+	border-style: inset;
+	margin: 10px;
+	text-align: center;
+	font-size: 17px;
+	font-family: 'Simonetta', cursive;
+	border-radius: 50px;
+}
+#transport {
+	position: relative;
+	height: 15%;
+	width: 500px;
+	float: left;
+	background-color: antiquewhite;
+	border: 5px solid green;
+	border-style: inset;
+	border-style: inset;
+	margin: 10px;
+	text-align: center;
+	font-size: 17px;
+	font-family: 'Simonetta', cursive;
+	border-radius: 50px;
+}
+#bank {
+	position: relative;
+	height: 15%;
+	float: right;
+	width: 500px;
+	background-color: antiquewhite;
+	border: 5px solid green;
+	border-style: inset;
+	margin: 10px;
+	text-align: center;
+	font-size: 17px;
+	font-family: 'Simonetta', cursive;
+	border-radius: 50px;
+}
+#button {
+	position: inherit;
+	font-size: 25px;
+	text-align: center;
+	border-radius: 50px;
+}
+#button button {
+	border-radius: 50px;
+	size: 20px;
+	background-size: contain;
+	font-size: larger;
+	color: solid black;
+	background-color: antiquewhite;
+}
+h1 {
+	position: relative;
+	background-color: lightgreen;
+	border-bottom: 15px solid red;
+}
+.city {
+   float: left;
+   margin: 10px;
+   padding: 10px;
+   max-width: 300px;
+   height: 300px;
+   border: 1px solid black;
